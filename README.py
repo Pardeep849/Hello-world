@@ -1,2 +1,1 @@
-# Hello-world
-Just another repository
+Print(2+1)
